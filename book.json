@@ -4,7 +4,6 @@
     "title"   : "EDK II Image Description File .IDF File Format Specification",
     "version" : "Revision 1.0"
   },
-
-  "plugins": ["puml"],
+  "plugins": ["puml-aleung"],
   "pluginsConfig": {}
 }
